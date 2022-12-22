@@ -1,1 +1,1 @@
-Building a Ping Pong Scorekeeper with vanilla JS + Bulma CSS Framework
+Building a Ping Pong Scorekeeper with vanilla JS + Bulma CSS Framework 
